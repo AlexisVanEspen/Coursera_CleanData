@@ -16,10 +16,10 @@ The cleaning script is named run_analysis.R.
 The directory where the script is located contains some files and two subfolders.
 
 #### Same level as the script
-* activity_labels.txt : maps the labels of activities to their numbers in the dataset.
+* activity_labels.txt : maps the labels of activities to their code numbers in the dataset.
 * features.txt : list of the variables names of the test and train datasets.
-* README.md : overview of the reprodubile cleaning process.
-* CodeBook.md : this document - describes the files, locations and relationships.
+* README.md : overview of a reproducible cleaning process.
+* CodeBook.md : this document - describes the files, their locations and relationships.
 
 #### *train* subdirectory
 *Data about the training set*
