@@ -22,13 +22,13 @@ The directory where the script is located contains some files and two subfolders
 * CodeBook.md : this document - describes the files, locations and relationships.
 
 #### *train* subdirectory
-**Data about the training set**
+*Data about the training set*
 * subject_train.txt : identifiers of the participants in the survey. Ranges from 1 to 30.
 * X_train.txt : measurements made over 561 variables, for 30 participants taking part in 6 activities.
 * y_train.txt : code numbers of the activities.
 
 #### *test* subdirectory
-*Data about the test set**
+*Data about the test set*
 * subject_test.txt : identifiers of the participants in the survey. Ranges from 1 to 30.
 * X_test.txt : measurements made over 561 variables, for 30 participants taking part in 6 activities.
 * y_test.txt : code numbers of the activities.
