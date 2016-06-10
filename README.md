@@ -1,4 +1,5 @@
-# COURSERA DATA SCIENCE SPECIALIZATION : Getting and Cleaning Data
+# COURSERA DATA SCIENCE SPECIALIZATION
+**etting and Cleaning Data**
 *Last edited on 2016.06.10 by Alexis Van Espen.*
 
 This file describes how to go from the original dataset to the cleaned version.
