@@ -98,9 +98,9 @@ d.run.average <- d.run[, -((length(d.run) - 1):length(d.run))]
 d.run.average <- aggregate(d.run.average, by = list(subject = d.run$subject, activity = d.run$activity), mean, na.rm = TRUE)
 ```
 
-* We now have a dataframe called d.run.average with 180 rows and 81 columns.
+* We now have a dataframe called **d.run.average** with 180 rows and 81 columns.
 * The first two columns are the grouping variables: subject and activity.
 * The next 79 columns are the measurement variables.
-* **d.run.average** has one row for each combination of subject and activity. Since we have 30 subjects and 6 acitivities, we muust wind up with 180 rows. The columns are kept unchanged, except that the two grouping variables are now at the beginning.
+* **d.run.average** has one row for each combination of subject and activity. Since we have 30 subjects and 6 activities, we must end up with 180 rows. The columns are kept unchanged, except that the two grouping variables are now at the beginning.
 
 **d.run.average** is the tidy dataset submitted for this assignment.
