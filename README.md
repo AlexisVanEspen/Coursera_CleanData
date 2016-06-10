@@ -18,8 +18,8 @@ The directory where the script is located contains some files and two subfolders
 #### Same level as the script
 * activity_labels.txt : maps the labels of activities to their code numbers in the dataset.
 * features.txt : list of the variables names of the test and train datasets.
-* README.md : overview of a reproducible cleaning process.
-* CodeBook.md : this document - describes the files, their locations and relationships.
+* README.md : this document - describes the files used for the cleaning.
+* CodeBook.md : overview of a reproducible cleaning process.
 
 #### *train* subdirectory
 *Data about the training set*
